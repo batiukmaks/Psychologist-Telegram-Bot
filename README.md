@@ -1,5 +1,4 @@
 # Your best psychologist
-### Video Demo: https://youtu.be/JhrMqSDo0q0
 ## **Description**:
 
 ## The main idea
